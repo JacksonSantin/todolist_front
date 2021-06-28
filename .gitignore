@@ -1,4 +1,5 @@
 node_modules/
+assets/
 .expo/
 .expo-shared/
 npm-debug.*
