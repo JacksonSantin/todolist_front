@@ -72,4 +72,4 @@ As seguintes ferramentas foram usadas na construção do projeto
 
 Este projeto está sobe a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Jackson Dhanyel Santin 👋🏽 [Entre em contato!](https://www.linkedin.com/in/jackson-dhanyel-santin/)
+Feito com ❤️ por Jackson Dhanyel Santin 👋🏽 [Entre em contato!](https://curriculum-vitae-jacksonsantin.vercel.app/contato)
